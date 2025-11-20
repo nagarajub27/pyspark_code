@@ -24,7 +24,7 @@ def main():
     
     #df.show(numRows=50,truncate=false)
     
-    df.show(50, False)
+    df.show(60, False)
     
     
     
